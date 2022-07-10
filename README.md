@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ## 📊 Stats
 
-![](https://github-readme-stats.vercel.app/api?username=RavenHogWarts&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![info](https://github-readme-stats.vercel.app/api?username=RavenHogWarts&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true)
