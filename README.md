@@ -10,5 +10,5 @@ Sample libraries created with the [components](https://cp.cc1234.cc/) plugin.
 - [Birthday-Manager](https://github.com/RavenHogWarts/Birthday-Manager)
 
 ## Other
-A variety of scripts for your own use.
+A variety of scripts for my own use.
 - [Snippets](https://github.com/RavenHogWarts/Snippets)
