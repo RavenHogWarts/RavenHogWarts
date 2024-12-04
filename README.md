@@ -3,7 +3,7 @@
 ## obsidian
 The Obsidian plugin I developed.
 - [custom-icons](https://github.com/RavenHogWarts/obsidian-custom-icons)
-- [table-enhancements](https://github.com/RavenHogWarts/obsidian-table-enhancements)
+- [ravenhogwarts-toolkit](https://github.com/RavenHogWarts/obsidian-ravenhogwarts-toolkit)
 
 Sample libraries created with the [components](https://cp.cc1234.cc/) plugin.
 - [Literature-Zotero-Obsidian](https://github.com/RavenHogWarts/Literature-Zotero-Obsidian)
