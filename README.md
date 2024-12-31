@@ -1,14 +1,86 @@
-![RavenHogWarts's Github Stats](https://github-readme-stats.vercel.app/api?username=RavenHogWarts&theme=nightowl&show_icons=true)
+<div align="center">
 
-## obsidian
-The Obsidian plugin I developed.
-- [custom-icons](https://github.com/RavenHogWarts/obsidian-custom-icons)
-- [ravenhogwarts-toolkit](https://github.com/RavenHogWarts/obsidian-ravenhogwarts-toolkit)
+# 🧙‍♂️ Welcome to RavenHogWarts's Magical Code Repository
 
-Sample libraries created with the [components](https://cp.cc1234.cc/) plugin.
-- [Literature-Zotero-Obsidian](https://github.com/RavenHogWarts/Literature-Zotero-Obsidian)
-- [Birthday-Manager](https://github.com/RavenHogWarts/Birthday-Manager)
+<div>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6F3381&center=true&vCenter=true&random=false&width=435&lines=A+Passionate+Developer;Obsidian+Plugin+Creator;Knowledge+Management+Explorer" alt="Typing SVG" />
+</div>
 
-## Other
-A variety of scripts for my own use.
-- [Snippets](https://github.com/RavenHogWarts/Snippets)
+<table>
+<tr>
+<td width="50%">
+
+### 🌟 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=RavenHogWarts&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%"/>
+
+</td>
+<td width="50%">
+
+### 🔥 Contribution Streak
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RavenHogWarts&theme=radical&hide_border=true" alt="GitHub Streak" width="100%"/>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+### 📊 Most Used Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavenHogWarts&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact&hide=emacs%20lisp&size_weight=0.5&count_weight=0.5" alt="Top Languages" width="50%"/>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+### 📈 Contribution Graph
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RavenHogWarts&theme=radical" alt="Contribution Graph" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<img src="https://komarev.com/ghpvc/?username=RavenHogWarts&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+
+<details>
+<summary>✨ More Stats</summary>
+
+### 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=RavenHogWarts&theme=radical&no-frame=true&row=1" width="100%" alt="Trophy"/>
+
+</details>
+
+</div>
+
+## 🟣 Obsidian Plugins & Templates
+
+### 🔮 Plugins Development
+Enchanting your Obsidian experience with custom plugins:
+- [**Custom Icons**](https://github.com/RavenHogWarts/obsidian-custom-icons) - Personalize your Obsidian with custom icons
+- [**RavenHogwarts Toolkit**](https://github.com/RavenHogWarts/obsidian-ravenhogwarts-toolkit) - A collection of magical tools for Obsidian
+
+### 📚 Components Templates
+Sample libraries created with the [Components](https://cp.cc1234.cc/) plugin:
+- [**Literature-Zotero-Obsidian**](https://github.com/RavenHogWarts/Literature-Zotero-Obsidian) - Academic literature management system
+- [**Birthday-Manager**](https://github.com/RavenHogWarts/Birthday-Manager) - Never forget important dates
+
+## 🛠️ Tools & Scripts
+- [**Snippets**](https://github.com/RavenHogWarts/Snippets) - A collection of useful scripts and code snippets
+
+## 💻 Tech Stack
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Obsidian](https://img.shields.io/badge/-Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white)
+
+## 📫 Get in Touch
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/RavenHogWarts)
+
+---
+
+<div align="center">
+  
+### "Mischief Managed! ✨"
+
+</div>
