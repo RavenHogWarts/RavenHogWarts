@@ -1,5 +1,5 @@
 
-<div  align="center">
+<div align="center">
 <div>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6F3381&center=true&vCenter=true&random=false&width=435&lines=A+Passionate+Developer;Obsidian+Plugin+Creator;Knowledge+Management+Explorer" alt="Typing SVG" />
 </div>
@@ -31,6 +31,22 @@ Enchanting your Obsidian experience with custom plugins:
   <tbody>
     <tr>
       <th scope="row">
+        <a href="https://github.com/RavenHogWarts/obsidian-ace-code-editor">Ace Code Editor</a>
+      </th>
+      <td>
+        <a href="https://obsidian.md/plugins?id=ace-code-editor">
+          <img src="https://img.shields.io/badge/dynamic/json?logo=obsidian&color=%23483699&label=downloads&query=%24%5B%22ace-code-editor%22%5D.downloads&url=https%3A%2F%2Fraw.githubusercontent.com%2Fobsidianmd%2Fobsidian-releases%2Fmaster%2Fcommunity-plugin-stats.json"/>
+        </a>
+        <a href="https://github.com/RavenHogWarts/obsidian-ace-code-editor/release/latest">
+          <img src="https://img.shields.io/github/downloads/RavenHogWarts/obsidian-ace-code-editor/total?style=flat&label=Total%20Downloads"/>
+        </a>
+      </td>
+      <td>
+        <img src="https://img.shields.io/github/stars/RavenHogWarts/obsidian-ace-code-editor?style=flat"/>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">
         <a href="https://github.com/RavenHogWarts/obsidian-custom-icons">Custom Icons</a>
       </th>
       <td>
@@ -47,18 +63,15 @@ Enchanting your Obsidian experience with custom plugins:
     </tr>
     <tr>
       <th scope="row">
-        <a href="https://github.com/RavenHogWarts/obsidian-ace-code-editor">Ace Code Editor</a>
+        <a href="https://github.com/RavenHogWarts/obsidian-ravenhogwarts-toolkit">Ravenhogwarts Toolkit</a>
       </th>
       <td>
-        <a href="https://obsidian.md/plugins?id=ace-code-editor">
-          <img src="https://img.shields.io/badge/dynamic/json?logo=obsidian&color=%23483699&label=downloads&query=%24%5B%22ace-code-editor%22%5D.downloads&url=https%3A%2F%2Fraw.githubusercontent.com%2Fobsidianmd%2Fobsidian-releases%2Fmaster%2Fcommunity-plugin-stats.json"/>
-        </a>
-        <a href="https://github.com/RavenHogWarts/obsidian-ace-code-editor/release/latest">
-          <img src="https://img.shields.io/github/downloads/RavenHogWarts/obsidian-ace-code-editor/total?style=flat&label=Total%20Downloads"/>
+        <a href="https://github.com/RavenHogWarts/obsidian-ravenhogwarts-toolkit/release/latest">
+          <img src="https://img.shields.io/github/downloads/RavenHogWarts/obsidian-ravenhogwarts-toolkit/total?style=flat&label=Total%20Downloads"/>
         </a>
       </td>
       <td>
-        <img src="https://img.shields.io/github/stars/RavenHogWarts/obsidian-ace-code-editor?style=flat"/>
+        <img src="https://img.shields.io/github/stars/RavenHogWarts/obsidian-ravenhogwarts-toolkit?style=flat"/>
       </td>
     </tr>
     <tr>
@@ -77,19 +90,19 @@ Enchanting your Obsidian experience with custom plugins:
         <img src="https://img.shields.io/github/stars/Moyf/yearly-glance?style=flat"/>
       </td>
     </tr>
-    <tr>
-      <th scope="row">
-        <a href="https://github.com/RavenHogWarts/obsidian-ravenhogwarts-toolkit">Ravenhogwarts Toolkit</a>
-      </th>
-      <td>
-        <a href="https://github.com/RavenHogWarts/obsidian-ravenhogwarts-toolkit/release/latest">
-          <img src="https://img.shields.io/github/downloads/RavenHogWarts/obsidian-ravenhogwarts-toolkit/total?style=flat&label=Total%20Downloads"/>
-        </a>
-      </td>
-      <td>
-        <img src="https://img.shields.io/github/stars/RavenHogWarts/obsidian-ravenhogwarts-toolkit?style=flat"/>
-      </td>
-    </tr>
   </tbody>
 </table>
 
+## Connect With Me
+
+<p>
+  <a href="https://github.com/RavenHogWarts/RavenHogWarts/issues">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="MailTo:ravenhogwarts.zero@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://space.bilibili.com/343113645">
+    <img src="https://img.shields.io/badge/bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili"/>
+  </a>
+</p>
