@@ -124,7 +124,7 @@ Sample Libraries created with the [Components](https://cp.cc1234.cc/) plugin:
 
 ## WebSites
 <a href="https://docs.ravenhogwarts.top/">
-    <img src="https://img.shields.io/badge/vercel-Docs-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel"/>
+    <img src="https://img.shields.io/badge/vercel-docs-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel"/>
   </a>
 
 ## Connect With Me
