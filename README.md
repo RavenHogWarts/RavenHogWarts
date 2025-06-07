@@ -93,6 +93,35 @@ Enchanting your Obsidian experience with custom plugins:
   </tbody>
 </table>
 
+Sample Libraries created with the [Components](https://cp.cc1234.cc/) plugin:
+
+<table>
+  <thead>
+    <tr>
+      <th scope="col">Libraries</th>
+      <th scope="col">Stars</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">
+        <a href="https://github.com/RavenHogWarts/Literature-Zotero-Obsidian">Literature Zotero Obsidian</a>
+      </th>
+      <td>
+        <img src="https://img.shields.io/github/stars/RavenHogWarts/Literature-Zotero-Obsidian?style=flat"/>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">
+        <a href="https://github.com/RavenHogWarts/Birthday-Manager">Birthday Manager</a>
+      </th>
+      <td>
+        <img src="https://img.shields.io/github/stars/RavenHogWarts/Birthday-Manager?style=flat"/>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ## Connect With Me
 
 <p>
