@@ -16,7 +16,7 @@
 
 ## Projects
 
-### <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian"/>
+### <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian"/>
 
 Enchanting your Obsidian experience with custom plugins:
 
