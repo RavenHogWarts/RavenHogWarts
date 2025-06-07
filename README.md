@@ -123,7 +123,7 @@ Sample Libraries created with the [Components](https://cp.cc1234.cc/) plugin:
 </table>
 
 ## WebSites
-<a href="docs.ravenhogwarts.top">
+<a href="https://docs.ravenhogwarts.top/">
     <img src="https://img.shields.io/badge/vercel-Docs-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel"/>
   </a>
 
