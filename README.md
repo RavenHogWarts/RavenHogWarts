@@ -1,18 +1,18 @@
 
 <div align="center">
-<div>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6F3381&center=true&vCenter=true&random=false&width=435&lines=A+Passionate+Developer;Obsidian+Plugin+Creator;Knowledge+Management+Explorer" alt="Typing SVG" />
+  <div>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6F3381&center=true&vCenter=true&random=false&width=435&lines=A+Passionate+Developer;Obsidian+Plugin+Creator;Knowledge+Management+Explorer" alt="Typing SVG" />
+  </div>
 </div>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=RavenHogWarts&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/RavenHogWarts?style=for-the-badge&color=purple&labelColor=black" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/RavenHogWarts?style=for-the-badge&color=yellow&labelColor=black" alt="Stars"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=RavenHogWarts&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="75%"/>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=RavenHogWarts&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+    <img src="https://img.shields.io/github/followers/RavenHogWarts?style=for-the-badge&color=purple&labelColor=black" alt="Followers"/>
+    <img src="https://img.shields.io/github/stars/RavenHogWarts?style=for-the-badge&color=yellow&labelColor=black" alt="Stars"/>
+  </p>
 </p>
-
-<img src="https://github-readme-stats.vercel.app/api?username=RavenHogWarts&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="75%"/>
-
-</div>
 
 ## Projects
 
