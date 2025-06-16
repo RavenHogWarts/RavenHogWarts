@@ -132,7 +132,7 @@ Sample Libraries created with the [Components](https://cp.cc1234.cc/) plugin:
 ## Connect With Me
 
 <p>
-  <a href="https://github.com/RavenHogWarts/RavenHogWarts/issues">
+  <a href="https://github.com/RavenHogWarts/RavenHogWarts/discussions">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="MailTo:fengyj120@163.com">
