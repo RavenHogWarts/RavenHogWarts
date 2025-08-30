@@ -65,6 +65,22 @@ Enchanting your Obsidian experience with custom plugins:
     </tr>
     <tr>
       <th scope="row">
+        <a href="https://github.com/RavenHogWarts/obsidian-next-toc">Next TOC</a>
+      </th>
+      <td>
+        <a href="https://obsidian.md/plugins?id=next-toc">
+          <img src="https://img.shields.io/badge/dynamic/json?logo=obsidian&color=%23483699&label=downloads&query=%24%5B%22next-toc%22%5D.downloads&url=https%3A%2F%2Fraw.githubusercontent.com%2Fobsidianmd%2Fobsidian-releases%2Fmaster%2Fcommunity-plugin-stats.json"/>
+        </a>
+        <a href="https://github.com/RavenHogWarts/obsidian-next-toc/release/latest">
+          <img src="https://img.shields.io/github/downloads/RavenHogWarts/obsidian-next-toc/total?style=flat&label=Total%20Downloads"/>
+        </a>
+      </td>
+      <td>
+        <img src="https://img.shields.io/github/stars/RavenHogWarts/obsidian-next-toc?style=flat"/>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">
         <a href="https://github.com/RavenHogWarts/obsidian-ravenhogwarts-toolkit">Ravenhogwarts Toolkit</a>
       </th>
       <td>
@@ -101,6 +117,7 @@ Sample Libraries created with the [Components](https://cp.cc1234.cc/) plugin:
   <thead>
     <tr>
       <th scope="col">Libraries</th>
+      <th scope="col">Downloads</th>
       <th scope="col">Stars</th>
     </tr>
   </thead>
@@ -110,6 +127,11 @@ Sample Libraries created with the [Components](https://cp.cc1234.cc/) plugin:
         <a href="https://github.com/RavenHogWarts/Literature-Zotero-Obsidian">Literature Zotero Obsidian</a>
       </th>
       <td>
+        <a href="https://github.com/RavenHogWarts/Literature-Zotero-Obsidian/release/latest">
+          <img src="https://img.shields.io/github/downloads/RavenHogWarts/Literature-Zotero-Obsidian/total?style=flat&label=Total%20Downloads"/>
+        </a>
+      </td>
+      <td>
         <img src="https://img.shields.io/github/stars/RavenHogWarts/Literature-Zotero-Obsidian?style=flat"/>
       </td>
     </tr>
@@ -118,11 +140,44 @@ Sample Libraries created with the [Components](https://cp.cc1234.cc/) plugin:
         <a href="https://github.com/RavenHogWarts/Birthday-Manager">Birthday Manager</a>
       </th>
       <td>
+        <a href="https://github.com/RavenHogWarts/Birthday-Manager/release/latest">
+          <img src="https://img.shields.io/github/downloads/RavenHogWarts/Birthday-Manager/total?style=flat&label=Total%20Downloads"/>
+        </a>
+      </td>
+      <td>
         <img src="https://img.shields.io/github/stars/RavenHogWarts/Birthday-Manager?style=flat"/>
       </td>
     </tr>
   </tbody>
 </table>
+
+obsidian 小工具
+
+<table>
+  <thead>
+    <tr>
+      <th scope="col">Toolkits</th>
+      <th scope="col">Downloads</th>
+      <th scope="col">Stars</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">
+        <a href="https://github.com/RavenHogWarts/obsidian-folder-opener">Obsidian Folder Opener</a>
+      </th>
+      <td>
+        <a href="https://github.com/RavenHogWarts/obsidian-folder-opener/release/latest">
+          <img src="https://img.shields.io/github/downloads/RavenHogWarts/obsidian-folder-opener/total?style=flat&label=Total%20Downloads"/>
+        </a>
+      </td>
+      <td>
+        <img src="https://img.shields.io/github/stars/RavenHogWarts/obsidian-folder-opener?style=flat"/>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 ## WebSites
 <a href="https://docs.ravenhogwarts.top/">
