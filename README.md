@@ -1,34 +1,5 @@
 <div align="center">
 
-<style>
-.three-line-table {
-  border-collapse: collapse;
-  width: 100%;
-  margin: 20px 0;
-}
-
-.three-line-table thead th {
-  border-top: 2px solid #333;
-  border-bottom: 1px solid #333;
-  padding: 12px 8px;
-  text-align: left;
-  font-weight: bold;
-}
-
-.three-line-table tbody tr:last-child td {
-  border-bottom: 2px solid #333;
-}
-
-.three-line-table td, .three-line-table th {
-  padding: 8px 12px;
-  border: none;
-}
-
-.three-line-table tbody tr {
-  border: none;
-}
-</style>
-
 <div>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6F3381&center=true&vCenter=true&random=false&width=435&lines=A+Passionate+Developer;Obsidian+Plugin+Creator;Knowledge+Management+Explorer" alt="Typing SVG" />
 </div>
@@ -51,7 +22,7 @@
 
 Enchanting your Obsidian experience with custom plugins:
 
-<table class="three-line-table">
+<table>
   <thead>
     <tr>
       <th scope="col">Plugin Name</th>
@@ -142,7 +113,7 @@ Enchanting your Obsidian experience with custom plugins:
 
 Sample Libraries created with the [Components](https://cp.cc1234.cc/) plugin:
 
-<table class="three-line-table">
+<table>
   <thead>
     <tr>
       <th scope="col">Libraries</th>
@@ -182,7 +153,7 @@ Sample Libraries created with the [Components](https://cp.cc1234.cc/) plugin:
 
 obsidian 小工具
 
-<table class="three-line-table">
+<table>
   <thead>
     <tr>
       <th scope="col">Toolkits</th>
